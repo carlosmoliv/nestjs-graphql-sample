@@ -15,7 +15,7 @@ export const mockUsers = [
     displayName: 'Leon S Kennedy',
   },
   {
-    id: 3,
+    id: 4,
     username: 'claire',
     displayName: 'Claire Redfield',
   },
